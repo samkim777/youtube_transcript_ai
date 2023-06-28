@@ -20,4 +20,5 @@ for string in filtered_text:
         dialogue.append(string)
 
 
+
 print(" ".join(dialogue))
